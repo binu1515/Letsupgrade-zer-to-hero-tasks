@@ -5,14 +5,7 @@
    "execution_count": 1,
    "metadata": {},
    "outputs": [
-    {
-     "ename": "SyntaxError",
-     "evalue": "can't assign to operator (<ipython-input-1-f6501dca5a8a>, line 1)",
-     "output_type": "error",
-     "traceback": [
-      "\u001b[1;36m  File \u001b[1;32m\"<ipython-input-1-f6501dca5a8a>\"\u001b[1;36m, line \u001b[1;32m1\u001b[0m\n\u001b[1;33m    celsius * 1.8 = fahrenheit - 32\u001b[0m\n\u001b[1;37m                                   ^\u001b[0m\n\u001b[1;31mSyntaxError\u001b[0m\u001b[1;31m:\u001b[0m can't assign to operator\n"
-     ]
-    }
+    
    ],
    "source": [
     "celsius * 1.8 = fahrenheit - 32"
